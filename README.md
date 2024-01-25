@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm the Raihan Parvez</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh ....</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh.I am a student of bacholor of science in Computer science and engineering.If You want to help me contact my whats app number:01778098356 , Email: raihanparvez222@gmail.com.........</h3>
 <img align="ringt" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rpb-raihan&label=Profile%20views&color=0e75b6&style=flat" alt="rpb-raihan" /> </p>
